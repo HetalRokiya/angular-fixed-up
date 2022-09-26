@@ -9,5 +9,8 @@
     "shared-presentational": "libs/shared/presentational",
     "shared-services": "libs/shared/services",
     "shared-store": "libs/shared/store"
+  },
+  "cli": {
+    "analytics": "aaab4781-91e5-401c-9e33-383ee28c79e6"
   }
 }
